@@ -27,7 +27,8 @@ const Home = () => {
 
             <div>
             <input type="text"id="formGet" required/>
-            <label htmlFor="" id="type"> </label>
+            <label htmlFor="" id="type"> </label>$ git config --global user.name "John Doe"
+
             </div>
 
             <input type="text"id="formGet" required/>
